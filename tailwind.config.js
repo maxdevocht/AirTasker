@@ -12,8 +12,12 @@ export default {
         lightBlue: '#e7f0ff',
         white: '#ffffff',
         beige: '#f9f3ee',
-        gray: '#d3d4da'
-      }
+        gray: '#d3d4da',
+      },
+      fontFamily: {
+        sans: "var(--font-manrope)",
+        caveat: "var(--font-caveat)",
+      },
     },
   },
   plugins: [],
